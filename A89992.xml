@@ -1,0 +1,637 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The new model of a part of the militia of the kingdom of Scotland, consisiting of five thousand foot, and five hundred horse ; with the instructions to the commissioners of the militia.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89992</idno>
+            <idno type="STC">Wing N675</idno>
+            <idno type="STC">ESTC R180948</idno>
+            <idno type="EEBO-CITATION">43663313</idno>
+            <idno type="OCLC">ocm 43663313</idno>
+            <idno type="VID">172074</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89992)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172074)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2612:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The new model of a part of the militia of the kingdom of Scotland, consisiting of five thousand foot, and five hundred horse ; with the instructions to the commissioners of the militia.</title>
+               </titleStmt>
+               <extent>[13] p.   </extent>
+               <publicationStmt>
+                  <publisher>By the heir of Andrew Anderson,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint lacking. Publication information from Wing (2nd ed.).</note>
+                  <note>Imperfect: stained and cropped, with loss of text.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  Early works to 1800.</term>
+               <term>Scotland --  History --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172074:1"/>
+            <head>THE NEW Model of a part of the MILITIA OF THE KINGDOM OF SCOTLAND, Conſiſting of five Thouſand Foot, and five Hundred Horſe; with the Inſtructions to the Commiſſioners of the Militia.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch, as the Kings Majeſty, taking to Conſideration, that by Act of Parliament in the Year 1663. the Eſtates of Parlia<g ref="char:EOLhyphen"/>ment did then heartily offer unto His Majeſty, the Number of twenty Thouſand Foot-men, and two Thouſand Horſe-men, ſufficiently Armed and furniſhed, with fourty dayes proviſion to be raiſed in the ſeveral Shires of the Kingdom, according to the proportions mentio<g ref="char:EOLhyphen"/>ned in that Act. And ſeing by Act of Parliament in the Year 1669. the Countrey is to pay the Horſe-men at eighteen ſhilling, and the Foot-men at ſix ſhilling <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>per diem,</hi> for every day that they appear at any Randez<g ref="char:EOLhyphen"/>vouz or Muſter; Yearly to the effect the Souldiers may be Exerciſed and may thereby underſtand the Diſcipline of War: And that if His Majeſty ſhall call them together for His Service, the Countrey is oblieged to furniſh them with fourty dayes Proviſion or Pay. In proſecution whereof, The Lords of Privy Council for the time, to whom the Parliament by their Act did remit the particular ordering and ſetlement of this matter, did by their ſe<g ref="char:EOLhyphen"/>veral Acts, put in Execution the ſaid Act of Parliament, by reducing theſe Forces of Horſe and Foot, to formed Troops and Regiments; and by His Majeſties ſpecial warrant, did preſcribe the way for naming and placing all the inferior Officers of Horſe and Foot, the chief Officers being Com<g ref="char:EOLhyphen"/>miſsionate by His Majeſty, as their Acts made thereanent, and the inſtructi<g ref="char:EOLhyphen"/>ons given to them for that purpoſe more fully bear. And whereas His Ma<g ref="char:EOLhyphen"/>jeſty by a Letter under His Royal Hand directed to His Council, of the date the 26. of <hi>October</hi> 1678. Thought fit for this Service, and the preſent Exigent of Affairs, to appoint five Thouſand Foot, and five Hundred Horſe, of the number of the twenty Thouſand Foot, and two Thouſand Horſe abovementioned, to be drawn out of the ſeveral Shires and Burghs of this Kingdom, being a fourth part of the whole, not including the Militia Re<g ref="char:EOLhyphen"/>giment of the good Town of <hi>Edinburgh</hi> as any part of this Number. And
+<pb facs="tcp:172074:2"/>did appoint theſe Foot to be divided into five Regiments, and the Horſe into five Troops, and each Regiment conſiſting of ten Companies to be commanded by a Major, and each Company to have a Leiutenant, Enſign, and two Serjants: Each Troop of Horſe to have a Leiutenant, and four Cor<g ref="char:EOLhyphen"/>porals; and to whom, for their encouragement, His Majeſty hath appointed competent Yearly Sallaries. And to the end, this His Majeſties Royal reſolu<g ref="char:EOLhyphen"/>tion might not be miſtaken, Thought fit to declare, that thereby he did not intend to put the Countrey to any greater charge then what they ſtand al<g ref="char:EOLhyphen"/>ready oblieged by Acts of Parliament Yearly. And by this His intention does not reſolve to lay aſide the yearly Randezvouz of the reſt of the Mi<g ref="char:EOLhyphen"/>litia of this Kingdom, Horſe and Foot, as formerly. In Obedience, and conform to which Letter, and His Majeſties other Letters direct to His Privy Council ſince the ſaid Letter relative thereto. The Lords of His Majeſties Privy Council Have ordained, and ordaines five Thouſand Foot, and five Hundred Horſe, of the number of theſe twenty Thouſand Foot, and two Thouſand Horſe of the Militia, eſtabliſhed by Act of Parliament to be drawn out of the ſeveral Shires and Burghs of this Kingdom, being a fourth part of the whole, not including the Militia of the Town of <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> according to the rule of Proportion, and hath made a particular di<g ref="char:EOLhyphen"/>viſion thereof, and given Inſtructions to the Commiſsioners of the Militia in manner aftermentioned, all which is Ratified and approven by His Ma<g ref="char:EOLhyphen"/>jeſty,</p>
+            <p>Followes, the diviſion of the five Thouſand Foot in the ſeveral Shires of this Kingdom, according to the proportion of the Militia appointed by the twenty fifth Act of the third Seſsion of His Majeſties firſt Parliament, in <hi>anno</hi> 1663.</p>
+            <div type="part">
+               <pb facs="tcp:172074:2"/>
+               <head>Follows the diviſion of the five Thouſand Foot in the ſeveral Shires of this Kingdom according to the proportion of the Militia appoynted by the 25. <hi>Act</hi> of the 3. <hi>Seſſi<g ref="char:EOLhyphen"/>on</hi> of His Majeſties 1. <hi>Parl,</hi> Anno 1663.</head>
+               <p>
+                  <table>
+                     <head>REGIMENT <hi>1.</hi>
+                     </head>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shires of</hi> Roxburgh <hi>and</hi> Selkirk.</cell>
+                        <cell>Three Companies, conſisting of one hundreth and eleven men each: which makes up in all</cell>
+                        <cell>
+                           <hi>—0333</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Berwick.</cell>
+                        <cell>Two Companies, conſiſting of one hundreth each: which makes</cell>
+                        <cell>
+                           <hi>—0200</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Peebles.</cell>
+                        <cell>One Company conſisting of ſixty ſix men which makes</cell>
+                        <cell>
+                           <hi>—0066</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Dumfreis.</cell>
+                        <cell>Two Companies, conſisting of one hundreth each: which makes</cell>
+                        <cell>
+                           <hi>—0200</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Wigton, <hi>and Stewartry of</hi> Kirkendburgh.</cell>
+                        <cell>Two Companies, conſisting of one hundreth each: which makes</cell>
+                        <cell>
+                           <hi>—0200</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">
+                           <hi>All theſe makes up one Regiment conſiſting of nine hundreth ninty and nine men.</hi>
+                        </cell>
+                        <cell role="total">
+                           <hi>—0999</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>REG. <hi>2.</hi>
+                     </head>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Edinburgh.</cell>
+                        <cell>Two Companies, conſisting of one hundreth men each: which makes</cell>
+                        <cell>—0200</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Haddingtown.</cell>
+                        <cell>Two Companies, conſisting of one hundreth each, which makes</cell>
+                        <cell>—0200</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Linlithgow</cell>
+                        <cell>One Company, conſisting of eighty three men, inde</cell>
+                        <cell>—0083</cell>
+                     </row>
+                     <pb facs="tcp:172074:3"/>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shires of</hi> Stirling <hi>and</hi> Clackmannan</cell>
+                        <cell>Two Companies, conſiſting of eighty three men each: which makes</cell>
+                        <cell>—0166</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Lanerk</cell>
+                        <cell>Two Companies, conſiſting of one hundreth and twenty five men each: which makes</cell>
+                        <cell>—0250</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Of the Locality from the Shire of</hi> Air <hi>and</hi> Renfrew</cell>
+                        <cell>One Company, conſiſting of one hundreth and ten: makes</cell>
+                        <cell>—0110</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">
+                           <hi>All theſe make up one Regiment, conſiſting of one thouſand and nine men. </hi>
+                        </cell>
+                        <cell role="total">—1009</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>REG. <hi>3.</hi>
+                     </head>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Fife <hi>and</hi> Kinroſſe</cell>
+                        <cell>Four Companies, conſiſting of one hundreth each: which makes</cell>
+                        <cell>—0400</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Perth</cell>
+                        <cell>Four Companies, conſiſting of one hundreth each: which makes</cell>
+                        <cell>—0400</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Locality of</hi> Air <hi>and</hi> Renfrew.</cell>
+                        <cell>Two Companies, conſisting of one hundreth and eleven each: makes</cell>
+                        <cell>—0222</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">
+                           <hi>All theſe make up one Regiment, conſiſting of one thouſand twenty and two men. </hi>
+                        </cell>
+                        <cell role="total">—1022</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>REG. <hi>4.</hi>
+                     </head>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Forfar.</cell>
+                        <cell>Three Companies, conſisting of eighty three men each: which makes</cell>
+                        <cell>—0249</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Kincardin <hi>and</hi> Mariſchals <hi>diviſion of</hi> Aberdeen</cell>
+                        <cell>Two Companies, conſisting of one hundreth men: which makes</cell>
+                        <cell>—0200</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The remnant part of</hi> Aberdeen <hi>and</hi> Bamff</cell>
+                        <cell>Three Companies, conſisting of eighty eight men each: which makes</cell>
+                        <cell>—0264</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Locality of</hi> Argyle, Dumbarton, <hi>and</hi> Bute</cell>
+                        <cell>Two Companies, conſiſting of one hundreth men each: which makes</cell>
+                        <cell>—0200</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">
+                           <hi>All theſe make up one Regiment, conſiſting of nine hundreth and thirteen men.</hi>
+                        </cell>
+                        <cell role="total">—0913</cell>
+                     </row>
+                  </table>
+               </p>
+               <pb facs="tcp:172074:3"/>
+               <p>
+                  <table>
+                     <head>REG. <hi>5</hi>
+                     </head>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Elgin <hi>and</hi> Nairn.</cell>
+                        <cell>
+                           <hi>Three Companies, conſiſting of eighty three men each: This com<g ref="char:EOLhyphen"/>prehends the</hi> Earl <hi>of</hi> Murray's <hi>diviſion of</hi> Innernes <hi>to</hi> Nes, <hi>with</hi> Badzenoch, <hi>Inde</hi>
+                        </cell>
+                        <cell>—0249</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Earl of</hi> Seaforth <hi>and Lord</hi> Lovats <hi>diviſion of</hi> Innnerneſs.</cell>
+                        <cell>Two Companies, conſiſting of eighty three men each, inde</cell>
+                        <cell>—0166</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The reſt of</hi> Roſs.</cell>
+                        <cell>One Company, conſiſting of one hundreth, Inde</cell>
+                        <cell>—0100</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shires of</hi> Sutherland <hi>and</hi> Caithneſs</cell>
+                        <cell>Two Companies, conſiſting of one hundreth each: which makes</cell>
+                        <cell>—0200</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Orkney <hi>and</hi> Zetland.</cell>
+                        <cell>Two Companies, conſisting of eighty three men each: which makes</cell>
+                        <cell>—0166</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">
+                           <hi>All theſe make up one Regiment, conſiſting of eight hundreth and eighty one men,</hi> Inde </cell>
+                        <cell role="total">—0881</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>The whole five Regiments of Foot amount to four thouſand eight hundreth twenty and four men. —4824</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:172074:4"/>
+               <head>A Diviſion of five hundreth Horſe, on the ſeveral Shires of this Kingdom, according to the proportion of the Militia ap<g ref="char:EOLhyphen"/>pointed by the 25. <hi>Act</hi> of the 3. <hi>Seſſ.</hi> of His Majeſties 1. <hi>Parli<g ref="char:EOLhyphen"/>ament, anno</hi> 1663.</head>
+               <p>
+                  <table>
+                     <head>TROOP <hi>1.</hi>
+                     </head>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shires of</hi> Roxburgh <hi>and</hi> Selkirk</cell>
+                        <cell>One Squad or Corporalſhip, conſiſting of thirty ſeven Horſemen, Inde</cell>
+                        <cell>—0037</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shires of</hi> Berwick <hi>and</hi> Peebles</cell>
+                        <cell>One Squad or Corporalſhip, conſiſting of twenty five men, whereof <hi>Berwick</hi> eighteen, and <hi>Peebles</hi> ſeven: in both</cell>
+                        <cell>—0025</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Dumfreis.</cell>
+                        <cell>One Squad or Corporalſhip, conſiſting of twenty two Horſemen, Inde</cell>
+                        <cell>—0022</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Wigton <hi>and Stewartry of</hi> Kirkcudburgh</cell>
+                        <cell>One Squad or Corporalſhip, conſiſting of twenty two Horſemen, Inde</cell>
+                        <cell>—0022</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">All theſe make up one Troop, conſiſting of one hundreth and ſix Horſemen.</cell>
+                        <cell role="total">—0106</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>TROOP <hi>2.</hi>
+                     </head>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shires of</hi> Edinburgh, Haddingtown, <hi>and</hi> Linlithgow</cell>
+                        <cell>Two Squads, or Corporalſhips, each conſiſting of twenty three Horſe<g ref="char:EOLhyphen"/>men, whereof the Shire of <hi>Edinburgh</hi> eighteen, <hi>Haddingtown</hi> eigh<g ref="char:EOLhyphen"/>teen, and <hi>Linlithgow</hi> ten, <hi>inde,</hi> in all.</cell>
+                        <cell>—0046</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shires of</hi> Stirling <hi>and</hi> Clackmannan</cell>
+                        <cell>One Squad or Corporalſhip, conſiſting of twenty two Horſemen</cell>
+                        <cell>—0022</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Lanerk</cell>
+                        <cell>One Squad or Corporalſhip, conſisting of thirty ſeven Horſemen</cell>
+                        <cell>—0037</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">All theſe make up one Troop, conſiſting of one hundreth and five Horſemen.</cell>
+                        <cell role="total">—0105</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>TROOP <hi>3.</hi>
+                     </head>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shires of</hi> Fife <hi>and</hi> Kinroſs.</cell>
+                        <cell>Two Squads or Corporalſhips conſiſting of twenty two Horſemen each inde</cell>
+                        <cell>—0044</cell>
+                     </row>
+                     <pb facs="tcp:172074:4"/>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Perth</cell>
+                        <cell>Two Squads or Corporalſhips, conſiſting of twenty two Horſemen each: Inde</cell>
+                        <cell>—0044</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">All theſe make up one Troop, conſiſting of eighty eight Horſe<g ref="char:EOLhyphen"/>men.</cell>
+                        <cell role="total">—0088</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>TROOP <hi>4.</hi>
+                     </head>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Forfar</cell>
+                        <cell>One Squad or Corporalſhip, conſiſting of twenty five Horſemen,</cell>
+                        <cell>Inde —0025</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shire of</hi> Kincardin, <hi>and the Earl</hi> Mariſchals <hi>diviſion of</hi> Aberdeen <hi>Shire.</hi>
+                        </cell>
+                        <cell>One Squad or Corporalſhip, conſisting of eighteen,</cell>
+                        <cell>Inde —0018</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>The reſt of</hi> Aberdeen <hi>Shire and</hi> Bamff <hi>Shire.</hi>
+                        </cell>
+                        <cell>Two Squads or Corporalſhips, conſiſting of twenty two Horſemen each</cell>
+                        <cell>—0044</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">All theſe make up one Troop, conſiſting of eighty ſeven Horſe<g ref="char:EOLhyphen"/>men.</cell>
+                        <cell role="total">—0087</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>TROOP <hi>5.</hi>
+                     </head>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shires of</hi> Elgin, Nairn, Innerneſs, Roſs, Sutherland, <hi>and</hi> Caithnes.</cell>
+                        <cell>Two Squads or Corporalſhips, conſiſting of ſixty ſix Horſemen, be<g ref="char:EOLhyphen"/>ing thirty three in each Squade, whereof <hi>Elgin</hi> and <hi>Nairn,</hi> to the Wa<g ref="char:EOLhyphen"/>ter of <hi>Neſs,</hi> twenty two, the Earle of <hi>Seafort</hi> and Lord <hi>Lovat</hi>'s divi<g ref="char:EOLhyphen"/>viſion of <hi>Innerneſs,</hi> twenty two, the rest of <hi>Roſſe,</hi> the Shires of <hi>Su<g ref="char:EOLhyphen"/>therland</hi> and <hi>Caithneſs;</hi> making up in all ſixty ſix Horſemen, <hi>Elgin, Nairn,</hi> the Earl of <hi>Murray</hi> and <hi>Lovat</hi>'s diviſion of <hi>Innerneſſe</hi> to make one Squad or Corporalſhip: And the Earle of <hi>Seaforts</hi> diviſion; the reſt of <hi>Roſſe, Sutherland,</hi> and <hi>Caithneſs</hi> to make up another Squad of twenty two, Inde</cell>
+                        <cell>—0066</cell>
+                     </row>
+                     <pb facs="tcp:172074:5"/>
+                     <row>
+                        <cell role="label">
+                           <hi>The Shires of</hi> Air <hi>and</hi> Renfrew</cell>
+                        <cell>Two Squades or Corporalſhips, conſiſting of twenty two Horſemen each</cell>
+                        <cell>—0044</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">All theſe make up one Troop, conſiſting of one hundreth and ten Horſemen.</cell>
+                        <cell role="total">—0110</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>The whole five Troops amount to four hundreth and nintie ſix Horſemen. —0496</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:172074:5"/>
+               <head>Follows the Inſtructions given by His Majeſties Privy Council, to the Commiſſioners of the Militia, in the ſeveral Shires of the Kingdom.</head>
+               <list>
+                  <label>I.</label>
+                  <item>YOu are ordered to Stent the number of Horſemen and Footmen up<g ref="char:EOLhyphen"/>on the Paroches, Heretors, and Liferenters in your Shire, in the uſual manner, having always a care to pitch upon ſuch as may conſtantly attend upon the Service.</item>
+                  <label>II.</label>
+                  <item>You are to cauſe Liſt the Names of the Souldiers, both Horſe and Foot, and ſet down the names of their Parents, Deſignations, and Dwelling-places, and to Rank them in their reſpective Companies, and to deliver theſe Liſts to the reſpective Leiutenants.</item>
+                  <label>III.</label>
+                  <item>You are to change no Souldier, Horſe or Foot, for another, without expreſs coment of the Leiutenant, who is to be anſwerable to his Major for what he does thereanent; and both the Major and Leiutenant are to obey the Leiutenant-General, or Commander in Chief of His Majeſties Forces, as they will be anſwerable.</item>
+                  <label>IV.</label>
+                  <item>You are to order, that no Horſe once received and liſted, be changed, without conſent of the Leiutenant, and the allowance of his ſuperiour Officer.</item>
+                  <label>V.</label>
+                  <item>You are to choiſe and liſt new Souldiers, in place of theſe who ſhall be removed by Death, or Infirmity, or ſhall remove off the Ground, and ſend their Names to their Leiutenants; and that theſe new liſted Souldiers be ſufficient Men for the Service, conform to the firſt Act of the ſecond Seſſion <hi>Parliament</hi> 2. <hi>Charles</hi> 2.</item>
+                  <label>VI.</label>
+                  <item>You are to appoint all theſe liſted within your Shire, to Rendezvous once in two Months, and to keep together eight days, at ſuch Times and Places within the Shire, as the Major of Foot or Leiutenant of Horſe ſhall appoint; and if the Rendezvous be without the Shire at ſuch Times and Places as the Leiutenant-General, or Commander in Chief ſhall appoint; and the keeping of the Rendezvous once in two Months eight days toge<g ref="char:EOLhyphen"/>ther ſhall continue, until the Commander in Chief ſhall order it otherwiſe.</item>
+                  <pb facs="tcp:172074:6"/>
+                  <label>VII.</label>
+                  <item>You are to order the Heretors to give allowance to the Horſemen and Foot Souldiers, for keeping the ſaids days of Rendezvous of eight days, once every two Months, and that for ten Months (His Majeſty being to pay them for the laſt two Months) at the rate of ſix ſhillings <hi>Scots</hi> a day for ilk Footman, and eighteen ſhilling <hi>Scots</hi> for each Horſman, conform to the Act of <hi>Parliament:</hi> And ready obedience is expected hereto, ſeing they are at no more expence by paying fourty days to this number, then they were at formerly, by paying ten days to the whole, which they either did, or ſhould have done.</item>
+                  <label>VIII.</label>
+                  <item>You are to take care that both Horſemen and Footmen be ſufficiently cloathed, fitted with all kind of Furniture neceſſar for the Service; and that the Arms for the Foot, be two parts Muſquets, and one part Pikes; and the Horſemen to be armed with a ſufficient Sword and Hulſter-Piſtols.</item>
+                  <label>IX.</label>
+                  <item>Each Leader of Horſe is to furniſh and uphold a ſufficient Horſe with his Furniture, for the ſpace of ſeven Years from their firſt Muſter; and at the expiring of the ſeven Years, He, and theſe of the Fraction with him are to contribute for another Horſe, not under the value of ten pounds <hi>Sterling,</hi> and fifty eight Inches high, and that a Horſe be provided accordingly, and ſo forth at the expiring of each ſeven Years <hi>ſucceſſive.</hi>
+                  </item>
+                  <label>X.</label>
+                  <item>You are to be careful that the Perſons to be liſted for the Militia, Horſe or Foot, ſhall be able bodies of Men, fit for the Service, and that they be ſuch as the Muſter-maſter ſhall approve of, and who ſhall take the Military Oaths appointed by Act of Council, each Rendezvous day, and ſuch Oaths as are contained in the Articles of War.</item>
+                  <label>XI.</label>
+                  <item>The Heretors of your Shire are to pay their proportion of fourty eight pound <hi>Scots</hi> to the Trumpeter, with the other Shires who are joyned with them in conſtituting the Troop: As alſo, Your Shire is to pay twelve pound <hi>Scots</hi> to every Drummer who ſerves in the Companies within your Shire, conform to the Act of <hi>Parliament.</hi>
+                  </item>
+                  <label>XII.</label>
+                  <item>And ſince His Majeſty has under His Royal Hand, given Commiſſions to Majors, Leiutenants, and Enſigns of Foot, and to the Leiutenants of Horſe; and has declared it His Pleaſure, that the Leiutenants of Horſe and Foot ſhall chooſe their own Corporals and Serjeants: Therefore you are to give your concurrence to them in their reſpective ſtations.</item>
+                  <label>XIII.</label>
+                  <item>You are to appoint two of your number <hi>per vices,</hi> to attend the firſt day of each Rendezvous within your Shire, and one of your number to attend
+<pb facs="tcp:172074:6"/>the general Rendezvous of your Regiment or Troop when they come to<g ref="char:EOLhyphen"/>gether, it being neceſſar, that there be one Commiſſioner preſent for every Shire out of which the Regiment or Troop is taken, to the effect they may give order for fining and puniſhing the Abſents, and for proceeding againſt all Deficients, and for performance of every thing elſe incumbent to them, conform to the Acts of <hi>Parliament</hi> and Council made thereanent, as well in every Company of Foot and Squad of Horſe, as when the whole Regiment and Troop are together.</item>
+                  <label>XIV.</label>
+                  <item>Theſe two Commiſſioners, with the concurrence of the Commanding-officer preſent for the time of the Foot-Company, or Squadron of Horſe, or Corporalſhip, and of the Major of Foot and Leiutenant of Horſe, or other Commanding-officer preſent, when the Regiment of Foot, or Troop of Horſe is together; are carefully to ca<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e poy<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d every Deficient and o<g ref="char:EOLhyphen"/>ther Tranſgreſſours, conform to the Acts of <hi>Parliament</hi> and Council anent the Militia: Hereby requiring the ſaids Commiſſioners to do exact dili<g ref="char:EOLhyphen"/>gence herein, as they will be anſwerable at their outmoſt peril. And cer<g ref="char:EOLhyphen"/>tifying, theſe Commiſſioners who ſhall be abſent, or being preſent, ſhall neglect their duty, hereby, and by Act of <hi>Parliament</hi> intruſted to them, ſhall be proceeded againſt as Contemners of His Majeſties Authority and Service, and neglecters of the publick Peace of the Kingdom.</item>
+                  <label>XV.</label>
+                  <item>The Commiſſioners of the Militia on the ſouth ſide of the North Water of Esk, in the ſeveral Shires of the Kingdom, are appointed to have their firſt meeting at the head Burgh of the Shire, upon the fifteen day of <hi>July</hi> next, and the Militia thereof, to have their firſt Rendezvouz upon the thir<g ref="char:EOLhyphen"/>teenth of <hi>August</hi> thereafter. And the Commiſſioners benorth the ſaid Water, are to have their firſt meeting upon the tenth of <hi>Auguſt,</hi> and the Militia thereof to have their firſt Randezvouz upon the 24. of <hi>Aug.</hi> And the Commiſſioners on the ſouth ſide of the ſaid Water, are to give an ac<g ref="char:EOLhyphen"/>count what they do at their firſt Meeting to the Council, upon the firſt Council day of <hi>Auguſt,</hi> and to give the ſecond account of the condition of their firſt Rendezvous, againſt the firſt Council day in <hi>September.</hi> And theſe benorth the ſaid Water, are to give an account what they do at their firſt Meeting, the firſt Council day in <hi>September;</hi> and the ſecond account of the condition of the firſt Rendezvous, the firſt Council day in <hi>October</hi> next.</item>
+                  <label>XVI.</label>
+                  <item>The Commiſſioners of the Militia of the ſeveral Shires at their firſt Meet<g ref="char:EOLhyphen"/>ing, are to appoint the Place of the firſt Rendezvous in every Shire, and to acquaint the Perſon of Quality afternamed, who is appointed to be preſent thereat.</item>
+                  <label>XVII.</label>
+                  <item>The Perſons of Quality afternamed, are appointed to conveen the Com<g ref="char:EOLhyphen"/>miſſioners of the Militia to their firſt Meeting, and to be preſent thereat, and to go to the ſeveral Shires, and ſee the firſt Rendezvous keeped, and give an account thereof to the Council.
+<pb facs="tcp:172074:7"/>
+                     <list>
+                        <item>For the Shire of <hi>Roxburgh,</hi> the Earl of <hi>Roxburgh</hi>
+                        </item>
+                        <item>For the Shire of <hi>Selkirk,</hi> the Laird of <hi>Hayning</hi>
+                        </item>
+                        <item>For the Shire of <hi>Berwick,</hi> the Earl of <hi>Home</hi>
+                        </item>
+                        <item>For the Shire of <hi>Peebles,</hi> the Lord <hi>Livingston</hi>
+                        </item>
+                        <item>For the Shire of <hi>Dumfreis,</hi> the Earl of <hi>Queensberry</hi>
+                        </item>
+                        <item>For the Shire of <hi>Wigton,</hi> the Laird of <hi>Burghton</hi>
+                        </item>
+                        <item>For the Stewartry of <hi>Kircudbright,</hi> the Earl of <hi>Nithiſdale</hi>
+                        </item>
+                        <item>For the Shire of <hi>Edinburgh,</hi> Lord <hi>Hatton</hi> Theaſaurer Depute</item>
+                        <item>For the Shire of <hi>Haddington,</hi> the Earl of <hi>Winton</hi>
+                        </item>
+                        <item>For the Shire of <hi>Linlithgow,</hi> the Earl of <hi>Linlithgow</hi>
+                        </item>
+                        <item>For the Shire of <hi>Stirling,</hi> the Lord <hi>Elphingſton</hi>
+                        </item>
+                        <item>For the Shire of <hi>Clackmannan,</hi> the Earl of <hi>Mar</hi>
+                        </item>
+                        <item>For the Shire of <hi>Lanerk,</hi> the Marqueſs of <hi>Dowglas,</hi> and the Lord <hi>Roſs</hi>
+                        </item>
+                        <item>For the Shires of <hi>Fife</hi> and <hi>Kinroſs,</hi> the Lord Chancellor, or whom he ſhall appoint</item>
+                        <item>For the Shire of <hi>Perth,</hi> the Marqueſs of <hi>Athol</hi>
+                        </item>
+                        <item>For the Shire of <hi>Air,</hi> the Earl of <hi>Glencairn,</hi>
+                        </item>
+                        <item>For the Shire of <hi>Renfrew,</hi> the Lord <hi>Roſs</hi>
+                        </item>
+                        <item>For the Shire of <hi>Forfar,</hi> the Earl of <hi>Southesk</hi>
+                        </item>
+                        <item>For <hi>Kincardin</hi> and <hi>Mariſchals</hi> part of <hi>Aberdeen,</hi> the Earl <hi>Mariſchal</hi>
+                        </item>
+                        <item>For <hi>Bamff</hi> and reſt of <hi>Aberdeen,</hi> the Laird of <hi>Auchmedden</hi> younger</item>
+                        <item>For <hi>Argile,</hi> the Earl of <hi>Argile</hi>
+                        </item>
+                        <item>For <hi>Bute,</hi> the Laird of <hi>Kelburn</hi>
+                        </item>
+                        <item>For <hi>Dumbarton,</hi> the Lord <hi>Lorn</hi>
+                        </item>
+                        <item>For <hi>Elgin,</hi> the Lord <hi>Duffus</hi>
+                        </item>
+                        <item>For <hi>Nairn,</hi> and Earl of <hi>Murrays</hi> diviſion of <hi>Innerneſs,</hi> and <hi>Badzenoch,</hi> the Earl of <hi>Murray,</hi> and in his abſence the Laird of <hi>Caddel</hi>
+                        </item>
+                        <item>For the Earl of <hi>Seaforth,</hi> and Lord <hi>Lovats</hi> diviſion of <hi>Innerneſs,</hi> the Earl of <hi>Seaforth</hi>
+                        </item>
+                        <item>The reſt of <hi>Roſs, Sir George Mackenzie</hi> of <hi>Tarbet,</hi> or Sir <hi>George Munro</hi>
+                        </item>
+                        <item>For the Shire of <hi>Caithneſs,</hi> the Earl of <hi>Caithneſs</hi>
+                        </item>
+                        <item>For the Shire of <hi>Sutherland,</hi> the Earl of <hi>Sutherland,</hi> or Sir <hi>Robert Gor<g ref="char:EOLhyphen"/>don</hi> of <hi>Embo</hi>
+                        </item>
+                        <item>For <hi>Orkney</hi> and <hi>Zetland,</hi> the Stewart or his Depute.</item>
+                     </list>
+                  </item>
+                  <label>XVIII.</label>
+                  <item>His Majeſties Privy Council have appointed, and appoints, that in the Shires of <hi>Roſs, Sutherland, Caithneſs,</hi> and <hi>Orkney,</hi> which had not formerly a Militia ſetled therein, the Juſtices of Peace, and Commiſſioners of Exciſe, be Commiſſioners of the Militia. Extracted by me</item>
+               </list>
+               <closer>
+                  <signed>
+                     <hi>WILL. PATERSON,</hi> Cl. Sti. Concilij.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="part">
+               <pb facs="tcp:172074:7" rendition="simple:additions"/>
+               <head>Additional Inſtructions for the <hi>Militia:</hi> Edinburgh, <hi>the eight day of</hi> July, <hi>1680.</hi>
+               </head>
+               <list>
+                  <label>I.</label>
+                  <item>THE Lords of His Majeſties Privy Council conſidering, that by the firſt Article of the late Inſtructions; the Heretors and Liferenters are ordered to Stent the number of Horſe and Foot in the uſual way: Do declare, that albeit according to the Act of <hi>Parliament,</hi> the He<g ref="char:EOLhyphen"/>retors and Liferenters be lyable thereto, yet they are to have their relief from the Tenants, whoſe proper Burthen it is to furniſh the Bodies of the Footmen and their Arms, and Pay, during the days of the Rendezvous; and the Heretors may accordingly force any of their Tenants or Servants who are fitteſt: the reſt of the Tenants contributing for their ſeveral Proportions, in the way formerly accuſtomed, either by Paroches, or otherwiſe, accor<g ref="char:EOLhyphen"/>ding as has been uſed in the reſpective Shires.</item>
+                  <label>II.</label>
+                  <item>As to the third and fourth Articles of the ſaids Inſtructions, whereby it is appointed, that no Souldier, Horſe or Foot, be changed for another, and that no Horſe once received and liſted, be changed without conſent of the Leiutenant; It is ordered that no ſuch change be made without expreſſe conſent of the Leiutenant, and two Commiſſioners of the Militia.</item>
+                  <label>III.</label>
+                  <item>As to the ſixth Article of the Inſtructions, where it is appointed, that Rendezvous be kept eight days every two Months, for the ſpace of ten Moneths: It is ordained, that the firſt Rendezvouz ſhall meet for this year, as is formerly appointed, <hi>viz</hi> upon the 13, and 24. of <hi>Auguſt</hi> reſpective, and to continue together for eight dayes, and the next Rendezvouz to begin the firſt Wedneſday of <hi>October,</hi> and to continue together ſixteen days; And for the ſubſequent Years, it is appointed that the firſt Rendezvouz ſhall begin the firſt Wedneſday of <hi>June,</hi> and to continue for ſixteen dayes, and the next Rendezvouz to be upon the firſt Wedneſday of <hi>October,</hi> and to continue then likewiſe for ſixteen dayes, and ſo forth to continue yearly thereafter; which two Rendezvouzes compleats the 32. dayes, payable by the Country.</item>
+                  <label>IV.</label>
+                  <item>As to the ninth Article, It is appointed, that the Militia Horſe be worth ten Pound Sterling, conform to the Act of Parliament, and be fiftie eight Inches high, At leaſt, that the Horſe be of ſufficient ſize, fit for Service.</item>
+                  <label>V.</label>
+                  <item>It is hereby declared, that theſe that are liable in the Fraction, ſhall pay to the Leaders of Horſe, and Outreikers of Foot, their proportional parts of what is due for the Pay both of Horſe and Foot, during the whole time they ſtay at the Rendezvouſes.</item>
+                  <label>VI.</label>
+                  <item>Whereas, ſince the Act of Parliament in the Year 1663, Eſtabliſhing the Militia, by which there are 800. Foot, and 88. Horſe, appointed for the Shire of <hi>Dumfreis;</hi> There is an late Act of Parliament disjoyning the Militia of the five Kirks of <hi>Eskdale</hi> from the ſaid Shire, and uniting the ſame to the Mi<g ref="char:EOLhyphen"/>litia of <hi>Roxburgh,</hi> whoſe proportion of the great Militia is one hundreth Foot and ten Horſe: The Lords of Council ordains the Proportion of the new Model'd Militia of theſe two Shires to be regulat accordingly. Extracted by me</item>
+               </list>
+               <closer>
+                  <signed>
+                     <hi>WILL. PATERSON,</hi> Cl. Sti. Concilij.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
